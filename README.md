@@ -10,7 +10,7 @@ smart_water_monitoring_system/
 │   └── app.py
 ├── frontend/
 │   └── src/
-│       └── App.jsx
+│       └── App.js
 ```
 
 ## 🚀 How to Run
@@ -51,5 +51,5 @@ The React frontend will be accessible at `http://localhost:5002`.
 ## 📦 Notes
 
 - Ensure the backend (`Flask`) is running before starting the frontend.
-- The frontend makes requests to `http://localhost:5002/api/water-data`.
+- The frontend makes requests to `http://localhost:5000/api/water-data`.
 - Add your `water_data.csv` file in the `backend/` directory.
