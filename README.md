@@ -53,3 +53,6 @@ The React frontend will be accessible at `http://localhost:5000`.
 - Ensure the backend (`Flask`) is running before starting the frontend.
 - The frontend makes requests to `http://localhost:5000/api/water-data`.
 - Add your `water_data.csv` file in the `backend/` directory.
+## Members
+- ### Vivek Yadav - 500120542
+- ### Pravar upadhyay - 500123937
