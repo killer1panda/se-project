@@ -46,7 +46,7 @@ npm install
 npm start
 ```
 
-The React frontend will be accessible at `http://localhost:5002`.
+The React frontend will be accessible at `http://localhost:5000`.
 
 ## 📦 Notes
 
